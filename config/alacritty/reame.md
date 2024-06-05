@@ -1,6 +1,6 @@
-# readme
+# alacritty 配置说明
 
-## theme 使用说明
+## 主题使用说明
 
 themes 来源 https://github.com/alacritty/alacritty-theme
 
